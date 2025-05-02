@@ -13,11 +13,13 @@ learning more every day
   * Minecraft Modding (Fabric, Java)
   * HTML web scraping (Node.js, fast-html-parser)
   * Firebase (Node.js API)
+  * PostgreSQL
   ## What I need to learn
-  * Database (learning PostgreSQL)
-  * Backend/Full Stack (learning Next.js)
+  * Database (MongoDB)
+  * .NET Framework
   * AI/ML (learning tensorflow, pandas)
-  
+  * Cloud (Google or AWS)
+
   
   # Competitive Programming stuff
   ## What I know
@@ -28,9 +30,11 @@ learning more every day
   * Binary Search
   * Dynamic Programming
   ## What I need to learn
-  * KMP
-  * More DP 😳
-  * Get to CM on codeforces
+  * Aho-Corasick
+  * Suffix Array
+  * Lazy Segtree
+  * More DP ( need to improve digit dp 😳)
+  * Get to CM on codeforces 💀
   
   
   # Other Stuff
